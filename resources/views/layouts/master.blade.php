@@ -170,7 +170,7 @@
                     </div>
                     <div class="col-sm-12 col-md-4 section-md-t3">
                         <div class="widget-a pt-5">
-                            <a href="https://www.ilri.org/"><img src="{{ asset('assets/img/ilri5.png') }}" alt="ilri" width="400" height="150"></a>
+                            <a href="https://www.ilri.org/"><img src="{{ asset('assets/img/ilri5.png') }}" alt="ilri" width="400"></a>
                         </div>
                     </div>
                 </div>
