@@ -183,7 +183,7 @@
                         <div class="copyright-footer">
                             <p class="copyright color-text-a">
                             &copy;
-                            <span class="color-a">Genomics & Bioinformatics</span> 2021.
+                            <span class="color-a">Genomics & Bioinformatics</span> 2022.
                             </p>
                         </div>
                     </div>
