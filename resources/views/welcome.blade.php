@@ -39,10 +39,10 @@
                                         <p class="intro-title-top">
                                             <!-- <br> 78345 -->
                                         </p>
-                                        <h1 class="intro-title mb-4">
+                                        <!-- <h1 class="intro-title mb-4">
                                             <span class="color-b">Genomics </span> and
                                             <br> Bioinformatics platform
-                                        </h1>
+                                        </h1> -->
                                         <!-- <p class="intro-subtitle intro-price">
                                             <a href="#"><span class="price-a">Get Started</span></a>
                                         </p> -->
@@ -64,10 +64,10 @@
                                         <p class="intro-title-top">
                                             <!-- <br> 78345 -->
                                         </p>
-                                        <h1 class="intro-title mb-4">
+                                        <!-- <h1 class="intro-title mb-4">
                                             <span class="color-b">Genomics </span> and
                                             <br> Bioinformatics platform
-                                        </h1>
+                                        </h1> -->
                                         <!-- <p class="intro-subtitle intro-price">
                                             <a href="#"><span class="price-a">Get Started</span></a>
                                         </p> -->
